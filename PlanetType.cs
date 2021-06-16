@@ -8,5 +8,6 @@ namespace PP_Term_project
 {
     enum PlanetType
     {
+        terrestrial
     }
 }

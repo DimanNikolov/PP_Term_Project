@@ -1,0 +1,7 @@
+C:\Users\DRENTAR\Desktop\University & lectures\Disciplines\I-st year\II-ри семестър\ПП\Курсова работа\PP Term-project\PP Term-project\bin\Debug\PP Term-project.exe.config
+C:\Users\DRENTAR\Desktop\University & lectures\Disciplines\I-st year\II-ри семестър\ПП\Курсова работа\PP Term-project\PP Term-project\bin\Debug\PP Term-project.exe
+C:\Users\DRENTAR\Desktop\University & lectures\Disciplines\I-st year\II-ри семестър\ПП\Курсова работа\PP Term-project\PP Term-project\bin\Debug\PP Term-project.pdb
+C:\Users\DRENTAR\Desktop\University & lectures\Disciplines\I-st year\II-ри семестър\ПП\Курсова работа\PP Term-project\PP Term-project\obj\Debug\PP Term-project.csprojAssemblyReference.cache
+C:\Users\DRENTAR\Desktop\University & lectures\Disciplines\I-st year\II-ри семестър\ПП\Курсова работа\PP Term-project\PP Term-project\obj\Debug\PP Term-project.csproj.CoreCompileInputs.cache
+C:\Users\DRENTAR\Desktop\University & lectures\Disciplines\I-st year\II-ри семестър\ПП\Курсова работа\PP Term-project\PP Term-project\obj\Debug\PP Term-project.exe
+C:\Users\DRENTAR\Desktop\University & lectures\Disciplines\I-st year\II-ри семестър\ПП\Курсова работа\PP Term-project\PP Term-project\obj\Debug\PP Term-project.pdb

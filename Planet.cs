@@ -31,6 +31,7 @@ namespace PP_Term_project
             if (Type != "terrestrial" && Type != "giant planet" && Type != "ice giant" && Type != "mesoplanet" && Type != "mini-neptune" && Type != "planetar" && Type != "super-earth" && Type != "super-jupiter" && Type != "sub-earth")
             {
                 Console.WriteLine("Incorrect planet type!");
+                Console.WriteLine("You should only enter one of the following types: terrestrial, giant planet, ice giant, mesoplanet, mini-neptune, planetar, super-earth, super-jupiter or sub-earth.");
             }
         }
 

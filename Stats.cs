@@ -63,23 +63,23 @@ namespace PP_Term_project
                 {
                     if (star.GalaxyName.Equals(galaxyName))
                     {
-                        Console.WriteLine("Name: " + star.Name);
-                        Console.WriteLine("Class: " + star.StarClass + " " + "(" + star.Mass + ", " + star.Size / 2 + ", " + star.Temperature + ", " + star.Luminosity + ")");
-                        Console.WriteLine("Planets:");
+                        Console.WriteLine("\t-  Name: " + star.Name);
+                        Console.WriteLine("\t   Class: " + star.StarClass + " " + "(" + star.Mass + ", " + star.Size / 2 + ", " + star.Temperature + ", " + star.Luminosity + ")");
+                        Console.WriteLine("\t   Planets:");
                         foreach (Planet planet in planets)
                         {
 
                             if (planet.StarName.Equals(star.Name))
                             {
-                                Console.WriteLine("o" + "§" + " " + "\t\u2022" + "Name: " + planet.Name + "\r\n" + "Type: " + planet.Type + "\r\n" + "Support life: " + planet.Habitability + "\r\n" + "Moons:");
-                                //Console.WriteLine("Type: " + planet.Type);
-                                //Console.WriteLine("Support life: " + planet.Habitability);
-                                //Console.WriteLine("Moons:");
+                                Console.WriteLine("\t\to  Name: " + planet.Name);
+                                Console.WriteLine("\t\t   Type: " + planet.Type);
+                                Console.WriteLine("\t\t   Support life: " + planet.Habitability);
+                                Console.WriteLine("\t\t   Moons:");
                                 foreach (Moon moon in moons)
                                 {
                                     if (moon.PlanetName.Equals(planet.Name))
                                     {
-                                        Console.WriteLine(moon.Name);
+                                        Console.WriteLine("\t\t\t>  " + moon.Name);
                                     }
                                 }
                             }
